@@ -38,5 +38,8 @@ Existem inúmeras plataformas para praticar **CTF**, e/ou obter mais informaçõ
 
 * [exploit-exercises](https://exploit-exercises.com/)
 * [CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
+* [Shellter Labs](https://shellterlabs.com/en/)
+* [CFT Time](https://ctftime.org/)
+
 
 
