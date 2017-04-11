@@ -1,2 +1,2 @@
 # ctf-guide
-guia de primeiros passos para começar com ctf
+Breve explicação sobre o funcionamento do CTF, go go !
