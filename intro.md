@@ -3,6 +3,7 @@
 **CTF** ou *Capture The Flag* é uma competição entre profissionais de segurança e/ou estudantes que querem aprender sobre segurança da informação.
 Essa competição é usada como uma ferramenta para aprendizagem aos interessados e pode ser utilizada como uma prática para as ferramentas
 e teorias que são aprendidas no decorrer da formação.
+
 De acordo com a [CTFTime](https://ctftime.org/ctf-wtf/) essas competições podem ser de três tipos comuns: **Jeopardy**, **Attack-Defence** e **Mixed**
 
 #### Estilo Jeopardy #### 
