@@ -1,4 +1,4 @@
-# O que é CTF? #
+## O que é CTF? ##
 
 **CTF** ou *Capture The Flag* é uma competição entre profissionais de segurança e/ou estudantes que querem aprender sobre segurança da informação.
 Essa competição é usada como uma ferramenta para aprendizagem aos interessados e pode ser utilizada como uma prática para as ferramentas
@@ -33,5 +33,10 @@ Competições **CTF** também abordam muitos outros aspectos da segurança da in
 
 e outros, bons jogadores e profissionais geralmente tem habilidades e experiências em todas essas áreas.
 
-# Tenho interesse, por onde eu começo?
+## Tenho interesse, por onde eu começo ##?
+Existem inúmeras plataformas para praticar **CTF**, e/ou obter mais informações, as quais deixo algumas como referência:
+
+* [exploit-exercises](https://exploit-exercises.com/)
+* [CTF Field Guide](https://trailofbits.github.io/ctf/index.html)
+
 
