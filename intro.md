@@ -34,7 +34,7 @@ Competições **CTF** também abordam muitos outros aspectos da segurança da in
 
 e outros, bons jogadores e profissionais geralmente tem habilidades e experiências em todas essas áreas.
 
-## Tenho interesse, por onde eu começo ? ##
+## Tenho interesse, por onde eu começo? ##
 Existem inúmeras plataformas para praticar **CTF**, e/ou obter mais informações, as quais deixo algumas como referência:
 
 * [exploit-exercises](https://exploit-exercises.com/)
