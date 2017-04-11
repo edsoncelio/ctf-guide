@@ -10,6 +10,7 @@ Nesse modo consiste de um conjunto de tarefas dentro de algumas categorias, tais
 * Web
 * Forense
 * Criptografia
+
 e alguns outros, onde cada tarefa resolvida resulta em uma pontuação, tarefas mais difíceis resultam em pontuações mais altas.
 Nessa modalidade a próxima tarefa é aberta apenas quando a anterior é resolvida pelo time. O vencedor é o time que possui a maior soma de pontos.
 
